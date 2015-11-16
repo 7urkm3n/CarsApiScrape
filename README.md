@@ -1,5 +1,5 @@
-## README
-#To Start server: Rails s #Port localhost:3000
+# README
+##To Start server: Rails s #Port localhost:3000
 
 
-#if data old need to scrape it by using:  rake scraper:scrape
+##if data old need to scrape it by using:  rake scraper:scrape
